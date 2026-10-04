@@ -1,0 +1,5 @@
+I've replaced my wallet with a small card-sized pocket journal, it has room for my cards, a small e-ink reader, but most importantly a pen and paper. In doing so I've started to write down more, just day-to-day stuff, nothing impactful but it feels good to get thoughts out of my mind onto paper.
+
+I don't think my thoughts are particularly profound, nor am I trying to impart wisdom. I've just noticed in my age that there are thoughts and connections that I may have in one moment, that I don't want to lose. Then through gardening, maybe I an form new connections and help strengthen convictions I already have, or just enjoy a moment of self reflection and [[Quiet Observations]].
+
+With a public digital garden I may selfishly be trying to imprint a little more humanity into an internet that is increasingly growing to be dominated by machines. 

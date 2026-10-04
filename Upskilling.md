@@ -1,0 +1,1 @@
+With how fast the AI space is moving it feels more imperative now than ever to stay on top of it and keep myself relevant with upskilling. The danger being that this is feeding into and causing a feedback loop with [[LLM Burnout]].

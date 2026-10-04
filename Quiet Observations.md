@@ -1,0 +1,1 @@
+I've found moments of pure joy in sitting quietly and observing the world around me. No distractions. Just me, and what nature has to show me. How harmoneous everything feels in those moments, and the pure joy and sense of relaxation that comes from letting go and just being one with the world around me.
