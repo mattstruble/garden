@@ -1,0 +1,1 @@
+It's not memorizing algorithms, it's not problem solving. It's respecting how programs become complex very quickly, and programming in such a way to minimize that problem.
