@@ -1,0 +1,1 @@
+With LLM's able to reverse engineer and create duplicate code of everything, what does that say for the longevity of software? Who maintain's LLM code, who keeps it up to date? What even is the value of code when an LLM can create anything in a day?
