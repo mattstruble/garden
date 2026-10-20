@@ -8,4 +8,4 @@ A lot of days after work I reach home absolutely mentally drained and fatigued a
 
 We're all just cursed managers now.
 
-Quarterly planning is dead. Everything is just micro decisions in 2 weeks c
+Quarterly planning is dead. Everything is just micro decisions in 2 weeks cycles. 
