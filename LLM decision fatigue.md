@@ -5,3 +5,7 @@ Previously an engineer would do some design work, and then you could enter a flo
 You can't trust the LLM output because it doesn't have the correct knowledge (even frontier Claude opus 5.5), and needs correction or adjustments or alignments to keep it on task. Otherwise you're left with bloat. 
 
 A lot of days after work I reach home absolutely mentally drained and fatigued and unable to make any more decisions for the day.
+
+We're all just cursed managers now.
+
+Quarterly planning is dead. Everything is just micro decisions in 2 weeks c
