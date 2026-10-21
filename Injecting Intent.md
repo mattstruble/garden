@@ -1,0 +1,7 @@
+LLMs are incredibly good at taking a snapshot of a repository and telling you exactly what the state of the code is to this day within  just a few minutes. On the surface this is great, you get to understand the code without documentation, and can instantly work / understand it without any extra work. 
+
+What the code doesn't carry with it is the _intent_ as to why its in the state it's in today. This easily leads LLMs down rabbit holes that a team may have already gone down and rejected in favor of another path. It also doesn't carry the information about how this code exists in the greater cross-systems architecture, or how its planning to evolve into the future. 
+
+There is also the trap of an experienced engineer, who knows the stack, who has been working on the project before, inferring their own domain experience as a shared knowledge. Where they have the inherit understanding of what repos work together, what links things, and why certain choices were made. So they, either consciously or subconsciously, prompt the LLM with that in mind and get more value out of it, than say someone off the street trying to make sense of the code at first blush. 
+
+There should be a way to encode intent, in a meaningful manner, that avoids bitrot, captures decisions, and can help shape and move teams as one unified unit. This way there's almost like a shared domain knowledge, and onboarding onto a new workstream won't necessarily take weeks - or rely on a small bus factor of engineers who fully understand the system.

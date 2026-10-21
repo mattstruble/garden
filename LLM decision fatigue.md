@@ -9,3 +9,7 @@ A lot of days after work I reach home absolutely mentally drained and fatigued a
 We're all just cursed managers now.
 
 Quarterly planning is dead. Everything is just micro decisions in 2 weeks cycles. 
+
+It's also incredibly difficult to get into any sort of flow state. Every time the LLM prompts you it is almost like it's demanding your attention and interrupts any state you may be in so that you may respond and keep it moving. It feels like missed time/opportunity/productivity if you let it sit idle for too long, when that may not necessarily be the case. 
+
+I've slowly started to peel back from trying to balance multiple agents while one is thinking, and using the downtime to promote mental rest (meditation, walks, maybe even writing/doodling in a notepad) to protect my mental health / fatigue. It's so easy to get caught up in the feeling of needing to move fast and be productive that was the cornerstone of software for so many years before LLMs, and maybe now the answer is to move slow and deliberately? Kind of flip the cycle and expectations on its head.
