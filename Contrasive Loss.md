@@ -1,0 +1,1 @@
+A loss function that is computed from the comparison between two or more examples, rather than one example independently.
