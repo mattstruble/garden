@@ -1,0 +1,3 @@
+There is legitimate value to LLMs, but what value do LLMs hold for the basic consumer? Every implementation so far seems to just get in the way or be unnecessary slop for the sake of AI, but there isn't a proven path for any implementation. I can't even think of a use case of why someone would need to use an LLM as a consumer. 
+
+I think as a business, it makes sense. LLM especially make sense in science/research/tech, which is where AI has always thrived and gotten the most use. 
