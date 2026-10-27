@@ -1,0 +1,1 @@
+A prerequisite to [[RLHF]] where models are taught the question-answer format used in the majority of modeling interactions.

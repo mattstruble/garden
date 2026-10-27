@@ -1,0 +1,1 @@
+Used in [[RLHF]] to update parameters of a language model based on the signal from the reward model.

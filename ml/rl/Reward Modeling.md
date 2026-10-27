@@ -1,0 +1,1 @@
+A model is trained to capture signal from preference data and then outputs a scalar reward indicating the quality of the future text.

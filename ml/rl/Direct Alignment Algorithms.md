@@ -1,0 +1,1 @@
+Algorithms that optimize a policy from preference data, rather than optimizing later after an intermediate reward.

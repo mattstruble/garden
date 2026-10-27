@@ -1,0 +1,1 @@
+Basic [[RLHF]] technique where candidate completions are fine-tuned by filtering a reward model imitating human preferences.
