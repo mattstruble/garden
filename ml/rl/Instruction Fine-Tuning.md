@@ -1,16 +1,6 @@
-A prerequisite to [[RLHF]] where models are taught the question-answer format used in the majority of modeling interactions.
+A prerequisite to [[RLHF]] (and other training pipelines), and the simplest method for adapting language models, where models are taught the question-answer format used in the majority of modeling interactions, instead of next-token prediction. Without it the model would not be able to follow basic instructions.
 
-Teaches the model to respond to an instruction-response format rather than just continuing text. 
-
-Simplest method for adapting language models to a desired task distribution. 
-
-Most pipelines (like [[RLHF]]) cannot perform without the basic level of instruction-following abilities that IFT imparts on the model. 
-
-Uses smaller batch sizes than pre-training to optimize on narrow data distributions while maintaining the pre-training generalization. 
-
-Prompt tokens are masked using [[Prompt Masking]] so the model isn't learning to predict user queries, just the responses. 
-
-Uses the same autoregressive loss function used in pretraining, but with different data and masking. 
+Compared to pretraining IFT uses smaller batch sizes, on a narrower data distribution, to maintain the pretraining generalization. It also uses the same autoregressive loss function, but with different masking policies. Prompt tokens are masked using [[Prompt Masking]] , or [[Multi-Turn Masking]] so the model isn't learning to predict user queries, just the responses. 
 
 Best practices:
 - High quality data has a high influence on performance, since the completions are what the prompt learns from 
