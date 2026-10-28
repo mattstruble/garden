@@ -10,6 +10,8 @@ Uses smaller batch sizes than pre-training to optimize on narrow data distributi
 
 Prompt tokens are masked using [[Prompt Masking]] so the model isn't learning to predict user queries, just the responses. 
 
+Uses the same autoregressive loss function used in pretraining, but with different data and masking. 
+
 Best practices:
 - High quality data has a high influence on performance, since the completions are what the prompt learns from 
 - Only need around 1M prompts to create a model capable of [[Post-Training]] and [[RLHF]], anything more than that has diminishing returns 
