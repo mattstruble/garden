@@ -1,0 +1,1 @@
+When pretraining, every token in the batch is predicted autoregressively and the loss is then applied. 
