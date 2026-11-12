@@ -1,0 +1,5 @@
+When writing code, or docs, anything that is generated entirely by AI should be treated as something for AI to read. 90% of the time if I am given AI generated docs then I will feed it to my AI agent to understand. 
+
+This relates to code comments. If the code is fully AI owned, then the comments should be useful for other AI to read, instead of long swaths of comments that go stale or don't reflect the current state of things. AI loves to just append to code blocks, ignoring what was previously there, and wasting future context of the next agent to parse everything. Instead it should be shaped as something along the lines of "Dear next AI agent, if you update this file then please update this other file as well."
+
+The final output of what is generated, and how it's used, is entirely dependent on who the intended reader is. If you intend humans to read your work, then it should be human written, if it's for AI, then it should be shaped for AI to read. 
